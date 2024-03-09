@@ -51,8 +51,13 @@ To use the given Library Management System (LMS) application, follow these steps
 5)	For example,
    - To add a book, enter 1, and then provide the book's details as prompted.
    - To remove a book, enter 2, and provide the name of the book to be removed.
-     -  Note : If you want to make sure the Book is removed than enter 4 -
-     -  In case, if the Book you want to remove does not Exist in Library –
+     - Note : If you want to make sure the Book is removed than enter 4 -
+     - In case, if the Book you want to remove does not Exist in Library –
+   - To update book details, enter 3, and follow the instructions to select the aspect of the book to update and provide the new details.
+     - In case, if the Book you want to update does not Exist in Library -
+   - To get details of a book, enter 4, and provide the name of the book to retrieve its details.
+   - To exit the system, enter 0.
+   - If  user input invalid choice, than the System prompts “INVALID SELECTION”
 
 
 
