@@ -24,16 +24,16 @@ It ensures a clear separation of concerns: data handling (Model), user interface
 
 The MVC (Model-View-Controller) architecture helps to organize and structure the given library management system (LMS) application by separating concerns and promoting modularity. Here's how MVC architecture benefits the application:
 1)	Model (com.jspid.lms.model) –
-•	The Book and Library classes represent the model component of the MVC architecture. They encapsulate the data and business logic of the application.
-•	The Book class defines the attributes and behavior of a book entity, such as its name, author, and price.
-•	The Library class represents the collection of books in a library and includes methods to manage the books (add, remove, update, retrieve).
+- The Book and Library classes represent the model component of the MVC architecture. They encapsulate the data and business logic of the application.
+- The Book class defines the attributes and behavior of a book entity, such as its name, author, and price.
+- The Library class represents the collection of books in a library and includes methods to manage the books (add, remove, update, retrieve).
 2)	View (com.jspid.lms.view) –
-•	The View class serves as the presentation layer of the application. It interacts with the user by displaying information and receiving input through the console.
-•	The user interface, implemented in the main method of the View class, presents options to the user (add book, remove book, update book, get book) and processes user input accordingly.
+- The View class serves as the presentation layer of the application. It interacts with the user by displaying information and receiving input through the console.
+- The user interface, implemented in the main method of the View class, presents options to the user (add book, remove book, update book, get book) and processes user input accordingly.
 3)	Controller (com.jspid.lms.controller) –
-•	The Controller class acts as an intermediary between the model and the view. It receives input from the view, processes it, and updates the model accordingly.
-•	Methods in the Controller class delegate tasks to the model (e.g., adding, removing, updating, retrieving books) based on user input received from the view.
-•	The controller isolates the view from direct interaction with the model, promoting loose coupling and easier maintenance.
+- The Controller class acts as an intermediary between the model and the view. It receives input from the view, processes it, and updates the model accordingly.
+- Methods in the Controller class delegate tasks to the model (e.g., adding, removing, updating, retrieving books) based on user input received from the view.
+- The controller isolates the view from direct interaction with the model, promoting loose coupling and easier maintenance.
 
 Advantages of MVC Architecture:
 -	Separation of Concerns: MVC separates the application into distinct components, each responsible for a specific aspect of the functionality. This separation makes the codebase easier to understand, maintain, and test.
