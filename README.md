@@ -49,6 +49,6 @@ To use the given Library Management System (LMS) application, follow these steps
 3)	Follow the On-Screen Instructions, you'll be prompted with a welcome message and instructions on how to interact with the system.Follow the prompts to perform actions such as adding a book, removing a book, updating book details, getting book details, or exiting the system.
 4)	Interact with the System based on the options provided, input the corresponding digit to perform the desired action.
 5)	For example,
-   •	To add a book, enter 1, and then provide the book's details as prompted.
+   - To add a book, enter 1, and then provide the book's details as prompted.
   	![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/5ebb52ac-c68a-41de-bf99-5d2661295103)
 
