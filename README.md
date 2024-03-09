@@ -52,7 +52,7 @@ To use the given Library Management System (LMS) application, follow these steps
    - To add a book, enter 1, and then provide the book's details as prompted.
   	![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/5ebb52ac-c68a-41de-bf99-5d2661295103)
    - 	To remove a book, enter 2, and provide the name of the book to be removed.
-      - Note : If you want to make sure the Book is removed than enter 4 -
+   - 	- Note : If you want to make sure the Book is removed than enter 4 -
      ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/1c8cb323-e67d-4fc1-a934-57f9f77807b5)
       - In case, if the Book you want to remove does not Exist in Library –
      ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/cdb878f6-1d4e-416d-bc4d-0dee72bdc40e)
