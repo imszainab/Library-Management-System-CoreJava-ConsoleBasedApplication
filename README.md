@@ -35,6 +35,9 @@ The MVC (Model-View-Controller) architecture helps to organize and structure the
 - Methods in the Controller class delegate tasks to the model (e.g., adding, removing, updating, retrieving books) based on user input received from the view.
 - The controller isolates the view from direct interaction with the model, promoting loose coupling and easier maintenance.
 
+Data Flow :
+![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/1e1ebd3e-3265-4151-a7a4-528b6d71b8c5)
+
 Advantages of MVC Architecture:
 -	Separation of Concerns: MVC separates the application into distinct components, each responsible for a specific aspect of the functionality. This separation makes the codebase easier to understand, maintain, and test.
 -	Modularity: Each component (model, view, controller) can be developed, tested, and modified independently, promoting code reusability and scalability.
