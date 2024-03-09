@@ -1,6 +1,6 @@
 # Library-Management-System-CoreJava-ConsoleBasedApplication
 
-__Introduction to LMS:__
+#__Introduction to LMS:__
 
 Library Management System (LMS) designed to automate various tasks related to managing books in a library. It provides a user-friendly interface for managing library resources efficiently, ensuring accurate record-keeping and easy access to book information. It simplifies administrative tasks and enhances the overall experience of library management.
 
