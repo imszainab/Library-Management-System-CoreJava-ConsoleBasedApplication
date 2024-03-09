@@ -50,14 +50,22 @@ To use the given Library Management System (LMS) application, follow these steps
 4)	Interact with the System based on the options provided, input the corresponding digit to perform the desired action.
 5)	For example,
    - To add a book, enter 1, and then provide the book's details as prompted.
+     ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/22496660-9be4-4b16-be15-fdd162534a9b)
    - To remove a book, enter 2, and provide the name of the book to be removed.
      - Note : If you want to make sure the Book is removed than enter 4 -
+       ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/4812f479-284f-488d-94b6-70d31f229188)
      - In case, if the Book you want to remove does not Exist in Library –
+       ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/78a3c167-9c06-47be-8813-7ee288007310)
    - To update book details, enter 3, and follow the instructions to select the aspect of the book to update and provide the new details.
+     ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/5b743cd0-0388-4d89-9cbe-173611a81bba)
      - In case, if the Book you want to update does not Exist in Library -
+       ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/273439d9-1795-4d8d-8642-e985b2489ed5)
    - To get details of a book, enter 4, and provide the name of the book to retrieve its details.
+     ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/66185b3f-086c-475c-aac3-2e8f69f21972)
    - To exit the system, enter 0.
+     ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/dfb38cfc-30d9-4f34-825f-b8f6507a17e4)
    - If  user input invalid choice, than the System prompts “INVALID SELECTION”
+      ![image](https://github.com/imszainab/Library-Management-System-CoreJava-ConsoleBasedApplication/assets/60963530/556813bb-55ce-4aaf-bb47-462c6756bd26)
 
 
 
