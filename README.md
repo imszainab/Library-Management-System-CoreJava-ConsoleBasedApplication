@@ -1,6 +1,4 @@
 # Library-Management-System-CoreJava-ConsoleBasedApplication
-Library Management System is basically a Console-Based Application Developed Using Core Java. It interacts with the user through console input and output and provides a simple user-friendly interface for managing books in a library by allowing users to add, remove, update, and get book details interactively through the command line.
-
 Library Management System (LMS) designed to automate various tasks related to managing books in a library. It provides a user-friendly interface for managing library resources efficiently, ensuring accurate record-keeping and easy access to book information. It simplifies administrative tasks and enhances the overall experience of library management.
 Purpose:  The purpose of the Library Management System is to provide an efficient and organized way to manage the inventory of books in a library. It streamlines processes such as adding new books, removing existing ones, updating book information, and retrieving book details.
 Main Features: 
