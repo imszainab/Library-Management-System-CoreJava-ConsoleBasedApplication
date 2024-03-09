@@ -1,6 +1,7 @@
 # Library-Management-System-CoreJava-ConsoleBasedApplication
 
 Introduction to LMS:
+
 Library Management System (LMS) designed to automate various tasks related to managing books in a library. It provides a user-friendly interface for managing library resources efficiently, ensuring accurate record-keeping and easy access to book information. It simplifies administrative tasks and enhances the overall experience of library management.
 
 Purpose:  The purpose of the Library Management System is to provide an efficient and organized way to manage the inventory of books in a library. It streamlines processes such as adding new books, removing existing ones, updating book information, and retrieving book details.
@@ -21,6 +22,7 @@ The system utilizes objects of the Book class to manage the library's book inven
 It ensures a clear separation of concerns: data handling (Model), user interface (View), and business logic (Controller), enhancing scalability, maintainability, and code organization.
 
 Architecture Of LMS :
+
 The MVC (Model-View-Controller) architecture helps to organize and structure the given library management system (LMS) application by separating concerns and promoting modularity. Here's how MVC architecture benefits the application:
 1)	Model (com.jspid.lms.model) –
 •	The Book and Library classes represent the model component of the MVC architecture. They encapsulate the data and business logic of the application.
