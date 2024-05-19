@@ -1,0 +1,31 @@
+Alpha Project
+
+Day 5 :  07|11|23
+Step 1 : Setup File Requirements
+        - Create Separate Folder For Images And Fonts
+        - Create HTML file (index.html)
+        - Create CSS file (style.css)
+        - Create JS file (app.js)
+Step 2 : Open index.html File And Setup All Linking/Connection Of Files Require
+        - Setup Tempalate/Boiler Plate For Your Code (By Using shift+! / type html :5 )
+        - Link style.css File (It Should Be Placed At Last Among All Links)
+        - Link FavIcon (For Giving Logo To Your WebPage)
+        - Link Font Awesome (For Giving Icons To Your WebPage)
+        - Link Google Font (For Giving Font Style To Your WebPage)
+Step 3 : Open style.css File And Add Font Style For WebPage
+
+Day 6 : 08|11|23
+Step 4 : Set Background Image For WebPage
+Step 5 : Divide WebPage In Different Sections
+Step 6 : Start Writing Code And Give CSS For Section 1 i.e Header Section
+
+Day 7 : 09|11|23
+Step 7 : After Finishing With Header Section Next Move To Body Section. Write HTML And CSS.
+        New Concept:
+                - Suppose We Have 5 <p> Tag.We Normally Use ID Selector If We Have To Give CSS To An Element i.e <p> But To Maintain Code Readability And Avoid Giving ID's Again and Again We Use Pseudo Class Selector Instead .
+                Here, We have Used :nth-child() Pseudo Class Selector For Buttons
+Step 8 : Next, Code For Description Section -
+        New Concept:
+                - To Center A Div/Section Keep Margin As (margin: 0px auto;) And Give Width Property
+                - How To Use Eye Dropper Chrome Extension.
+                - Border-Radius Property For Giving Each Edges Different Or Same Radius (border-radius: top-left top-right bottom-right bottom-left)
